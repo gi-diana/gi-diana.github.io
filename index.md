@@ -1,29 +1,38 @@
 ## Portfolio
 
 ---
-
-### Category Name 1 
-
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### Leading a student team
+<br>
+<br>
+[6 DOF Robotic Arm](/sample_page)
+<br>
+<img src="images/ARM.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Spherical Wrist for Robotic Arm](/pdf/wristlin.pdf)
+<br>
+<img src="images/w3.jpg?raw=true"/>
 
 ---
+[Vision System with Industrial Cameras]()
+<br>
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-### Category Name 2
+[Multibody and Robotic simulation](http://example.com/)
+<br>
+<img src="images/vrep.png?raw=true"/>
+---
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+## Design of a 6 DOF Robotic Arm
+<p align='center'>
+    <img src="images/thesis.png?raw=true" width="450" height="275"/>
+</p>
+<a href="/pdf/Tesi_small.pdf" download>Click here to download my Bachelor thesis</a>
+<br><br>
+
+<br>
+
+
 
 ---
 
